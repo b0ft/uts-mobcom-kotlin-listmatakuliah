@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mata Kuliah Ilmu Komputer UNJ</string>
+    <string name="matakuliah1">Mobile Computing</string>
+    <string name="sks1">3</string>
+    <string name="matakuliah2">Metode Penelitian</string>
+    <string name="sks2">2</string>
+    <string name="matakuliah3">Teori Bahasa dan Automata</string>
+    <string name="sks3">2</string>
+    <string name="matakuliah4">Statistika dan Probabilitas</string>
+    <string name="sks4">3</string>
+    <string name="matakuliah5">Matematika Diskrit</string>
+    <string name="sks5">3</string>
+    <string name="matakuliah6">Dasar-dasar Pemrograman</string>
+    <string name="sks6">3</string>
+    <string name="matakuliah7">Aljabar Linear</string>
+    <string name="sks7">3</string>
+    <string name="matakuliah8">Kalkulus Integral</string>
+    <string name="sks8">3</string>
+    <string name="matakuliah9">Interaksi Manusia</string>
+    <string name="sks9">3</string>
+    <string name="matakuliah10">Etika Profesi</string>
+    <string name="sks10">2</string>
+    <string name="matakuliah11">Wawasan Pendidikan</string>
+    <string name="sks11">2</string>
+    <string name="matakuliah12">Logika dan Penalaran Ilmiah</string>
+    <string name="sks12">2</string>
+    <string name="matakuliah13">Sistem Operasi</string>
+    <string name="sks13">3</string>
+    <string name="matakuliah14">Pemrograman Deklaratif</string>
+    <string name="sks14">3</string>
+    <string name="matakuliah15">Manajemen Proyek</string>
+    <string name="sks15">2</string>
+</resources>
